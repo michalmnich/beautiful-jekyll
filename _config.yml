@@ -9,7 +9,7 @@ author: Michał Mnich
 navbar-links:
   About Me: 
     - About Me: "aboutme"
-    - Timeline:
+    - Timeline: "https://beautifuljekyll.com"
   Projects: "projects"
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
  #  - Learn markdown: "https://www.markdowntutorial.com/"
