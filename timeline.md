@@ -1,4 +1,4 @@
 ---
-layout: timeline
+layout: page
 title: Timeline
 ---
